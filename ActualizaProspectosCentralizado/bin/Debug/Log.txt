@@ -1,0 +1,16 @@
+﻿23/09/2014 09:50:57	Se ejecutó el comando: C:\AndradeGPO\ActualizarCampoEnBP\Ejecutable\Business Pro SICOP.exe SICOP GMI GAZM_Zaragoza Importa C:\AndradeGPO\ActualizarCampoEnBP\SiCoP\Importar\ SICOP_PROSPECTOS_TEMP_DMS.txt nada, desde: fsw_Created
+23/09/2014 10:35:01	Se ejecutó el comando: C:\AndradeGPO\ActualizarCampoEnBP\Ejecutable\BusinessProSICOP.exe SICOP GMI GAZM_Zaragoza Importa C:\AndradeGPO\ActualizarCampoEnBP\SiCoP\Importar\ SICOP_PROSPECTOS_TEMP_DMS.txt nada, desde: fsw_Created
+23/09/2014 10:37:23	Se ejecutó el comando: C:\AndradeGPO\ActualizarCampoEnBP\Ejecutable\BusinessProSICOP.exe SICOP GMI GAZM_Zaragoza Importa C:\AndradeGPO\ActualizarCampoEnBP\SiCoP\Importar\ SICOP_PROSPECTOS_TEMP_DMS.txt nada, desde: fsw_Created
+23/09/2014 12:56:13	Se ejecutó el comando: C:\AndradeGPO\ActualizarCampoEnBP\Ejecutable\BusinessProSICOP.exe SICOP GMI GAZM_Zaragoza Importa C:\AndradeGPO\ActualizarCampoEnBP\SiCoP\Importar\ SICOP_PROSPECTOS_TEMP_DMS.txt 3N1CK3CD9DL259265, desde: fsw_Created
+23/09/2014 13:07:55	Se ejecutó el comando: C:\AndradeGPO\ActualizarCampoEnBP\Ejecutable\BusinessProSICOP.exe SICOP GMI GAZM_Zaragoza Importa C:\AndradeGPO\ActualizarCampoEnBP\SiCoP\Importar\ SICOP_PROSPECTOS_TEMP_DMS.txt 3N1CK3CD9DL259265, desde: fsw_Created
+07/11/2014 15:31:48	Inicio de Operaciones, desde: Form1_Load
+07/11/2014 15:34:59	Inicio de Operaciones, desde: Form1_Load
+07/11/2014 15:35:15	Directorio Inspeccion: C:\AndradeGPO\ActualizarCampoEnBP\SiCoP\Importar\, desde: Form1_Load
+07/11/2014 15:35:50	Inicio de Operaciones, desde: Form1_Load
+07/11/2014 17:14:25	Inicio de Operaciones, desde: Form1_Load
+07/11/2014 19:35:03	Inicio de Operaciones, desde: Form1_Load
+07/11/2014 19:39:41	Inicio de Operaciones, desde: Form1_Load
+27/07/2016 13:19:35	Error al buscar en el archivo creado: 'Windows - 1252' no es un nombre de codificación admitido.
+Nombre del parámetro: name, desde: ObtenVinDeArchivo
+24/09/2018 01:24:25 p.m.	La persona en el campo fax : 266731 Tiene este id_sicop: 153388053419340 ANTES de la actualización, desde: ForzaMatchEnBpro
+24/09/2018 01:26:26 p.m.	La persona en el campo fax : 266731 Tiene este id_sicop: 153388053419340 DESPUES de la actualización, desde: ForzaMatchEnBpro
